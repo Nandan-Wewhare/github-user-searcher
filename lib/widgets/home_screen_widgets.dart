@@ -22,7 +22,7 @@ class HomeScreenWidgets {
             errorBorder: OutlineInputBorder(
               borderSide: BorderSide(color: Colors.red),
             ),
-            hintText: 'Type Github username',
+            hintText: 'Github username eg:nandan-wewhare',
             hintStyle: GoogleFonts.poppins(color: Colors.grey),
           ),
         ),
